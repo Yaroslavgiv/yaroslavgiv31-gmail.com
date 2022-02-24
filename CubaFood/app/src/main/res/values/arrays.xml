@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="burger_array">
+        <item>Кубано</item>
+        <item>Чикен-берг</item>
+        <item>Плескавица</item>
+        <item>Берк-окорок</item>
+        <item>Поло</item>
+        <item>Школьник</item>
+        <item>Веган</item>
+    </string-array>
+
+    <string-array name="sandwich_array">
+        <item>Шеф</item>
+        <item>Гевара</item>
+        <item>Гаванна</item>
+        <item>Гурман</item>
+        <item>Томат-мацарелла</item>
+        <item>Варадеро</item>
+        <item>Империал</item>
+        <item>Биг-панчо</item>
+        <item>Сэн-веган</item>
+    </string-array>
+
+    <string-array name="grill_array">
+        <item>Сосиськи</item>
+        <item>Сордельки</item>
+        <item>Колбаски</item>
+        <item>Куриные крылышки</item>
+        <item>Сердечки куриные</item>
+        <item>Копченые рёбрышки</item>
+        <item>Люля-кебаб</item>
+        <item>Мясо мякоть</item>
+        <item>Перепел</item>
+        <item>Курица</item>
+        <item>Криветки</item>
+        <item>Стейк свиной</item>
+        <item>Стейк говяжий</item>
+        <item>Стейк бараний</item>
+        <item>Стейк куриный</item>
+        <item>Стейк рыбный</item>
+        <item>Овощи</item>
+        <item>Грибы</item>
+    </string-array>
+
+    <string-array name="tandoor_array">
+        <item>Криветки</item>
+        <item>Раки</item>
+        <item>Шампиньоны</item>
+        <item>Сом</item>
+        <item>Свиные рёбра</item>
+        <item>Кратофель в беконе</item>
+        <item>Свинина с ананасом</item>
+        <item>Ягненок</item>
+        <item>Лосось</item>
+        <item>Индейка</item>
+        <item>Утка</item>
+        <item>Чебуреки</item>
+        <item>Курица грудка</item>
+        <item>Фаршированый перец</item>
+        <item>Плов</item>
+        <item>Лепёшки</item>
+        <item>Лаваш</item>
+        <item>Самса</item>
+        <item>Овощи</item>
+    </string-array>
+
+
+    <string-array name="ingredients_array">
+        <item>Белочка для бургера</item>
+        <item>Самон для бургера</item>
+        <item>Багет францусский</item>
+        <item>Красный соус</item>
+        <item>Белый соус</item>
+        <item>Фарш свино-говяжий</item>
+        <item>Фарш куриный</item>
+        <item>Мясной маринад</item>
+        <item>Красный соус шашлычный</item>
+        <item>Белый соус шашлычный</item>
+
+    </string-array>
+
+    <string-array name="sovet_array">
+        <item>Особенности приготовления бургера</item>
+        <item>Особенности приготовления сэндвича</item>
+        <item>Особенности приготовления в тандыре</item>
+        <item>Особенности приготовления на гриле</item>
+        <item>Особенности приготовления теста</item>
+        <item>Особенности приготовления соуса</item>
+        <item>Особенности приготовления мяса</item>
+
+    </string-array>
+
+    <string-array name="main_text_size_array">
+        <item>Крупный</item>
+        <item>Средний</item>
+        <item>Мелкий</item>
+
+
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/id_burger"
+            android:icon="?android:attr/fingerprintAuthDrawable"
+            android:title="@string/burger" />
+        <item
+            android:id="@+id/id_sandwich"
+            android:icon="?android:attr/fingerprintAuthDrawable"
+            android:title="@string/sandwich" />
+        <item
+            android:id="@+id/id_grill"
+            android:icon="?android:attr/fingerprintAuthDrawable"
+            android:title="@string/grill" />
+        <item
+            android:id="@+id/id_tandoor"
+            android:icon="?android:attr/fingerprintAuthDrawable"
+            android:title="@string/tandoor" />
+    </group>
+
+    <item android:title="Дополнение">
+        <menu>
+            <item
+                android:id="@+id/id_ingredients"
+                android:icon="?attr/actionModePasteDrawable"
+                android:title="@string/ingredients" />
+            <item
+                android:id="@+id/id_sovet"
+                android:icon="@android:drawable/ic_menu_info_details"
+                android:title="@string/sovet" />
+        </menu>
+    </item>
+
+</menu>

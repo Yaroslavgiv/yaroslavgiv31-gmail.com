@@ -7,7 +7,7 @@ I am a Flutter mobile developer using the Dart programming language. I also acti
 In programming since 2018. I have been working in mobile development since 2021. I teach Python and mobile development to schoolchildren and adults from scratch.
 
 * 🌍  I'm based in Sankt-Peterburg
-* ✉️  You can contact me at [my@dom-tuap@ru](mailto:my@dom-tuap@ru)
+* ✉️  You can contact me at [my@dom-tuap@ru](mailto:my@dom-tuap.ru)
 
 ### Skills
 
